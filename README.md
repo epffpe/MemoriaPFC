@@ -6,6 +6,9 @@ Piloto Automático para UAVs.
 Diseñado por:
 Eugenio Peñate
 
+Breve resumen de los capítulos:
+http://youtu.be/7j4kdnudmdA
+
 Para hacerse una idea rápida del proyecto:
 http://prezi.com/pihnkbubvtzk/uav-autopilot-eng-full/
 
