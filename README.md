@@ -16,3 +16,5 @@ Video de hardware debugging de la arquitectura software en tiempo real:
 http://www.youtube.com/watch?v=3RP8rK31rrw&list=PLYa-Frja0QOAoAs2c9jvUxYckPELOwPwg&index=5
 
 <img src="Portada_PFC_epf.jpg" />
+
+<img src="ContraPortada_PFC_epf.jpg" />
